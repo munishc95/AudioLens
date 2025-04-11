@@ -1,0 +1,17 @@
+streamlit
+requests
+python-dotenv
+pillow
+flask
+azure-cognitiveservices-speech
+reportlab
+PyPDF2
+moviepy
+matplotlib
+seaborn
+openai
+fpdf
+pydub
+yt-dlp
+wave
+ffmpeg

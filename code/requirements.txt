@@ -1,0 +1,15 @@
+flask
+azure-cognitiveservices-speech
+reportlab
+collections2
+PyPDF2
+matplotlib
+seaborn
+openai
+fpdf
+streamlit
+requests
+python-dotenv
+moviepy
+pydub
+yt_dlp

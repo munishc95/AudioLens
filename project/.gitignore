@@ -1,0 +1,13 @@
+.env
+/AudioLens/project/.env
+code/input/*
+/project/server/data/input/*
+/project/server/data/output/*
+/project/server/logs/*
+!.gitkeep
+/venv
+/project/venv
+**/__pycache__/
+*.wav
+*.pdf
+*.log
