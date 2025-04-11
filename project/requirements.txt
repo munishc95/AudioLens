@@ -15,3 +15,4 @@ pydub
 yt-dlp
 wave
 ffmpeg
+python-dotenv
